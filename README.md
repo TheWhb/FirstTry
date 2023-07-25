@@ -1,3 +1,3 @@
 # FirstTry
 
-# An attempt to make a game
+An attempt to make a game
